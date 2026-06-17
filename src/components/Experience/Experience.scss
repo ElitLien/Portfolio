@@ -1,0 +1,78 @@
+.experience {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 120px 170px;
+}
+
+.experience-title {
+  font-size: 80px;
+  font-weight: 600;
+  margin-bottom: 70px;
+}
+
+.experience-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  width: 100%;
+  max-width: 1000px;
+  padding: 35px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.experience-card:hover {
+  transform: translateY(-5px);
+}
+
+.company-logo {
+  flex-shrink: 0;
+}
+
+.company-logo img {
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+  border-radius: 16px;
+}
+
+.company-info {
+  flex: 1;
+}
+
+.company-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+	font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.company-info ul {
+  padding-left: 20px;
+}
+
+.company-info li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+  font-size: 24px;
+}
+
+.tech-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 25px;
+}
+
+.tech-stack span {
+  padding: 8px 14px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.08);
+  font-size: 24px;
+  border: 2px solid #2c3340;
+}

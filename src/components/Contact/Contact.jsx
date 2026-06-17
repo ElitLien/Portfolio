@@ -5,11 +5,8 @@ import call_icon from "../../assets/call_icon.svg"
 import location_icon from "../../assets/location_icon.svg"
 
 const Contact = () => {
-  const [result, setResult] = React.useState("");
-
   const onSubmit = async (event) => {
     event.preventDefault();
-    setResult("Sending....");
     const formData = new FormData(event.target);
 
     formData.append("access_key", "9d968a8f-f944-485f-8570-fc1421bb7460");
@@ -22,11 +19,7 @@ const Contact = () => {
     const data = await response.json();
 
     if (data.success) {
-      setResult("Form Submitted Successfully");
       event.target.reset();
-    } else {
-      console.log("Error", data);
-      setResult(data.message);
     }
   };
 
