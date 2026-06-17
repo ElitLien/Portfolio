@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.0fe9e613.css",
-    "main.js": "/Portfolio/static/js/main.197b868e.js",
+    "main.css": "/Portfolio/static/css/main.b3f50930.css",
+    "main.js": "/Portfolio/static/js/main.d62a1131.js",
     "static/js/453.acca0757.chunk.js": "/Portfolio/static/js/453.acca0757.chunk.js",
     "static/media/second_website.png": "/Portfolio/static/media/second_website.14ca54c9318984408afd.png",
     "static/media/first_website.png": "/Portfolio/static/media/first_website.a606b6fd2bfe4e4daf68.png",
     "static/media/third-website.png": "/Portfolio/static/media/third-website.dd4b0a6a412cd3a3dcfc.png",
-    "static/media/call_icon.svg": "/Portfolio/static/media/call_icon.22c2a824e072139168a7b6bfa20fd6ee.svg",
-    "static/media/mail_icon.svg": "/Portfolio/static/media/mail_icon.a4b45d9a918fbfe05565d74e176107b7.svg",
-    "static/media/nav_underline.svg": "/Portfolio/static/media/nav_underline.65d21eda94358e5e678c98acb63538b2.svg",
+    "static/media/diceus_logo.png": "/Portfolio/static/media/diceus_logo.4ce1801e4564a354cc95.png",
+    "static/media/call_icon.svg": "/Portfolio/static/media/call_icon.e1698b26d5c425aaa8b014f6eb05a1fb.svg",
+    "static/media/mail_icon.svg": "/Portfolio/static/media/mail_icon.5d4b7c3f9d0ee87360c2ecb0526993ce.svg",
+    "static/media/nav_underline.svg": "/Portfolio/static/media/nav_underline.1dbf46eba25903c4d0044f27473e83b7.svg",
     "index.html": "/Portfolio/index.html",
-    "static/media/menu_close.svg": "/Portfolio/static/media/menu_close.d7bcdac2acc8f22501cacb6bbabbb700.svg",
-    "static/media/location_icon.svg": "/Portfolio/static/media/location_icon.234c0c250d645c2e7ba297ba906a019d.svg",
-    "static/media/arrow_icon.svg": "/Portfolio/static/media/arrow_icon.866a8d83b9723eed11e169d98d66ebc7.svg",
-    "static/media/menu_open.svg": "/Portfolio/static/media/menu_open.f6a63a18e3c68d807e50b1037f3e3555.svg",
-    "main.0fe9e613.css.map": "/Portfolio/static/css/main.0fe9e613.css.map",
-    "main.197b868e.js.map": "/Portfolio/static/js/main.197b868e.js.map",
+    "static/media/menu_close.svg": "/Portfolio/static/media/menu_close.d177a733d1fa594adde48c1575c6a5b2.svg",
+    "static/media/location_icon.svg": "/Portfolio/static/media/location_icon.b39e3880562f9761613d4eec1392943b.svg",
+    "static/media/arrow_icon.svg": "/Portfolio/static/media/arrow_icon.a33cd385f4abdf7ecb3f40375abeb0c4.svg",
+    "static/media/menu_open.svg": "/Portfolio/static/media/menu_open.6cc3b93d9911bae382a7fa6bc30ad1eb.svg",
+    "main.b3f50930.css.map": "/Portfolio/static/css/main.b3f50930.css.map",
+    "main.d62a1131.js.map": "/Portfolio/static/js/main.d62a1131.js.map",
     "453.acca0757.chunk.js.map": "/Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fe9e613.css",
-    "static/js/main.197b868e.js"
+    "static/css/main.b3f50930.css",
+    "static/js/main.d62a1131.js"
   ]
 }
